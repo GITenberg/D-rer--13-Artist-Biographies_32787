@@ -1,0 +1,27 @@
+_repo: D-rer--13-Artist-Biographies_32787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32787-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sweetser, M. F. (Moses Foster)
+    alias: Sweetser, Moses Foster
+    birthdate: 1848
+    deathdate: 1897
+    gutenberg_agent_id: '36045'
+    url: http://www.gutenberg.org/2009/agents/36045
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Dürer, Albrecht, 1471-1528'
+title: "Dürer\r\nArtist-Biographies"
+url: http://www.gutenberg.org/ebooks/32787
